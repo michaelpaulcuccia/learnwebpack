@@ -1,1 +1,3 @@
-console.log('hello world')
+import generateText from "./generateText";
+
+console.log(generateText);

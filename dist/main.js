@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log((function(){return"Function to create text"}))})();
